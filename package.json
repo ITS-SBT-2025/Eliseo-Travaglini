@@ -1,0 +1,22 @@
+{
+  "name": "eliseo-travaglini",
+  "version": "1.0.0",
+  "description": "prova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITS-SBT-2025/Eliseo-Travaglini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITS-SBT-2025/Eliseo-Travaglini/issues"
+  },
+  "homepage": "https://github.com/ITS-SBT-2025/Eliseo-Travaglini#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

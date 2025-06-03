@@ -4,8 +4,10 @@
   "description": "prova",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node index.js",
+    "dev": "nodemon index.js"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ITS-SBT-2025/Eliseo-Travaglini.git"
